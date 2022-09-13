@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "876289046371",
+    "project_id": "laci-495ab",
+    "storage_bucket": "laci-495ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876289046371:android:c5aa85d25b7d70a3934556",
+        "android_client_info": {
+          "package_name": "com.laci.systemleavesubmission"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876289046371-amekq734klghhrc2ibte8r88i141ledt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.laci.systemleavesubmission",
+            "certificate_hash": "903d72ab25fe8d6d8c2ed712dbd71c8d1d663dfa"
+          }
+        },
+        {
+          "client_id": "876289046371-p7a2o4bd71khvfaubdr4d2en7nvd7o0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyW1ldamQ-G4RuRiUt5t2LuS5UYSGeD1o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876289046371-p7a2o4bd71khvfaubdr4d2en7nvd7o0j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "876289046371-0usal196kdn9mj1p8k78qjn5b46e087h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.laci.systemleavesubmission"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
